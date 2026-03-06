@@ -1,5 +1,7 @@
 # Christ is King 1.20.1 Minecraft Mod
 
+REQUIREMENTS: Forge 47.4.10
+
 This mod introduces multiple Christian-based items, mobs, etc. to Minecraft.
 
 Here's a list of them:
