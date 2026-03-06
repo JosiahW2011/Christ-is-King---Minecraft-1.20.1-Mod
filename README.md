@@ -1,4 +1,4 @@
-# Christ-is-King---Minecraft-1.20.1-Mod
+# Christ is King 1.20.1 Minecraft Mod
 
 This mod introduces multiple Christian-based items, mobs, etc. to Minecraft.
 
